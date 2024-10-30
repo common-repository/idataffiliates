@@ -1,0 +1,1032 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IDatAffiliates\n"
+"POT-Creation-Date: 2017-10-19 12:51+0800\n"
+"PO-Revision-Date: 2016-04-29 07:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: Rymera Web Co <idatlabc@idatlab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .hg\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: js/lib\n"
+"X-Poedit-SearchPathExcluded-3: *node_modules*\n"
+
+#: Helpers/Plugin_Constants.php:87
+msgid "301 Permanent"
+msgstr ""
+
+#: Helpers/Plugin_Constants.php:88
+msgid "302 Temporary"
+msgstr ""
+
+#: Helpers/Plugin_Constants.php:89
+msgid "307 Temporary (alternative)"
+msgstr ""
+
+#: Models/Affiliate_Link.php:522
+msgid "Unable to save affiliate link as there are no changes registered on the object yet."
+msgstr ""
+
+#: Models/Affiliate_Link_Attachment.php:130
+#: Models/Affiliate_Link_Attachment.php:200 Models/Affiliate_Links_CPT.php:559
+#: Models/Guided_Tour.php:313 Models/Link_Fixer.php:178
+#: Models/Link_Fixer.php:180 Models/Link_Picker.php:278
+#: Models/Link_Picker.php:336 Models/Link_Picker.php:427
+#: Models/Marketing.php:175 Models/Marketing.php:300 Models/Settings.php:1623
+#: Models/Settings.php:1671 Models/Stats_Reporting.php:293
+msgid "Invalid AJAX call"
+msgstr ""
+
+#: Models/Affiliate_Link_Attachment.php:132
+#: Models/Affiliate_Link_Attachment.php:202 Models/Affiliate_Links_CPT.php:561
+#: Models/Link_Picker.php:280 Models/Link_Picker.php:338
+#: Models/Link_Picker.php:429 Models/Stats_Reporting.php:295
+msgid "Missing required post data"
+msgstr ""
+
+#: Models/Affiliate_Link_Attachment.php:152
+msgid "Attachments successfully added to the affiliate link"
+msgstr ""
+
+#: Models/Affiliate_Link_Attachment.php:177
+msgid "Invalid attachment ids to attach to an affiliate link"
+msgstr ""
+
+#: Models/Affiliate_Link_Attachment.php:208
+msgid "Attachment successfully removed from attachment"
+msgstr ""
+
+#: Models/Affiliate_Link_Attachment.php:235
+msgid "Invalid attachment id to remove from an affiliate link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:150 Models/Affiliate_Links_CPT.php:154
+#: Models/Affiliate_Links_CPT.php:166
+msgid "Affiliate Links"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:151
+msgid "Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:152
+msgid "IDatAffiliates"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:153
+msgid "Parent Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:155
+msgid "View Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:156
+msgid "Add Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:157
+msgid "New Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:158
+msgid "Edit Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:159
+msgid "Update Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:160
+msgid "Search Affiliate Links"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:161
+msgid "No Affiliate Link found"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:162
+msgid "No Affiliate Links found in Trash"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:167
+msgid "IDatAffiliates affiliate links"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:210 Models/Affiliate_Links_CPT.php:212
+msgid "Link Categories"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:211
+msgid "Link Category"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:213
+msgid "All Categories"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:214
+msgid "Parent Category"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:215
+msgid "Parent Category:"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:216
+msgid "New Category Name"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:217
+msgid "Add New Category"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:218
+msgid "Edit Category"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:219
+msgid "Update Category"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:220
+msgid "View Category"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:221
+msgid "Separate items with commas"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:222
+msgid "Add or remove items"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:223
+msgid "Choose from the most used"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:224
+msgid "Popular Categories"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:225
+msgid "Search Categories"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:226
+msgid "Not Found"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:227
+msgid "No items"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:228
+msgid "Category list"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:229
+msgid "Category list navigation"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:260
+msgid "Link ID:"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:274
+msgid "URLs"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:275
+msgid "Attach Images"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:278
+msgid "Save Affiliate Link"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:279
+msgid "Link Options"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:461
+msgid "Link ID"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:462
+msgid "Redirect Type"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:463
+msgid "Cloaked URL"
+msgstr ""
+
+#: Models/Affiliate_Links_CPT.php:464
+msgid "Link Destination"
+msgstr ""
+
+#: Models/Bootstrap.php:367 Models/Settings.php:599
+msgid "Settings"
+msgstr ""
+
+#: Models/Guided_Tour.php:151
+msgid ""
+"<h3>Congratulations, you just activated IDatAffiliates!</h3>\n"
+"                               <p>Would you like to take a tour of the plugin features? It takes less than a minute and you'll then know exactly how to use the plugin.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:160
+msgid ""
+"<h3>IDatAffiliates helps you manage affiliate links that you are given from the various affiliate programs you are a member of.</h3>\n"
+"                               <p>It lets you hide long, and often confusing looking, affiliate link URLs behind another URL called a redirect. When your visitors click on that new URL they are automatically redirected to your affiliate link.</p>\n"
+"                               <p>This is helpful for five reasons:</p>\n"
+"                               <ol><li>AESTHETICS: Affiliate links are often long and ugly as mentioned and this can look off putting to visitors. IDatAffiliates redirects make them shorter and more attractive to click on like \"http://example.com/recommends/some-product-name\"</li>\n"
+"                               <li>PROTECTION: It hides the affiliate code, so malicious software (malware) cannot sniff out the affiliate code for common affiliate programs and replace it with their own code instead. In this way, it protects your commissions.</li>\n"
+"                               <li>CONVENIENCE: If the affiliate program ever changes the link code you’ll only have ONE place to change it on your blog, rather than going through all your content and changing every instance of the link.</li>\n"
+"                               <li>CATEGORIZATION: You categorize your affiliate links into logical groups which can make managing them much simpler.</li>\n"
+"                               <li>STATISTICS: Finally, because your visitors are travelling via a IDatAffiliates redirect, the plugin can provide you with statistics on what is being clicked.</li></ol>\n"
+"                               <p>You can now create an “Affiliate Link” in this new section in your dashboard. This view shows you all the affiliate links you are managing with IDatAffiliates.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:177
+msgid ""
+"<h3>Affiliate links can be added to your posts easily by clicking on the “TA” button on your editor.</h3>\n"
+"                               <p>This works identically to the WordPress link tool, but only searches for affiliate links.</p>\n"
+"                               <p>Give it a try by typing in some text, highlighting it, then clicking the “TA” button.</p>\n"
+"                               <p>If you need to you can click the cog icon for an advanced search view which is handy for doing more advanced searches and for inserting images pre-wrapped with your affiliate link or via a shortcode instead.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:190
+msgid ""
+"<h3>IDatAffiliates has a number of settings that change the way it works, behaves and how your links appear.</h3>\n"
+"                                   <p>Here are the General settings which are for changing the way you work with IDatAffiliates in the backend.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:199
+msgid ""
+"<h3>One of the most important parts of the settings area is Link Appearance which changes the way your links look to your visitors.</h3>\n"
+"                                   <p>This includes the Link Prefix setting which is important to decide on before you start using IDatAffiliates.</p>\n"
+"                                   <p>By default, this is set to “recommends” so your links will look like “http://example.com/recommends/some-product-name”.</p>\n"
+"                                   <p>You can also choose to include the category slug in the URL, change the way IDatAffiliates redirects links, add no follow, make links open in a new window and more.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:211
+msgid ""
+"<h3>We built IDatAffiliates to be flexible and as such, you can shut down the parts of IDatAffiliates that aren’t being used. This can make the plugin faster.</h3>\n"
+"                                   <p>If you have the Pro add-on each Pro module will show in here as well.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:220
+msgid ""
+"<h3>Setting up multiple sites with all running IDatAffiliates?</h3>\n"
+"                                   <p>We’ve made it super simple to configure your additional sites by being able to import and export IDatAffiliate settings.</p>\n"
+"                                   <p>Just copy the Export section and paste it into the Import section on your other site and IDatAffiliates will be automatically configured the same way.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:230
+msgid ""
+"<h3>Need some help with IDatAffiliates?</h3>\n"
+"                                   <p>We have a growing knowledge base filled with guides, troubleshooting and FAQ.</p>\n"
+"                                   <p>Our blog is also very active with lots of interesting affiliate marketing topics to help you grow your affiliate marketing empire.</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:241
+msgid ""
+"<h3> This concludes the guide. You are now ready to setup your first affiliate link!</h3>\n"
+"                               <p>We also have a Pro add-on for IDatAffiliates which contains lots of interesting features for affiliates like:</p>\n"
+"                               <ul><li>Automatically link up your affiliate links to keywords in your blog</li>\n"
+"                               <li>Get more detailed and advanced reports</li>\n"
+"                               <li>Geolocated affiliate links</li>\n"
+"                               <li>Google Analytics integration</li>\n"
+"                               <li>CSV importing/exporting, Amazon importing, and more</li>\n"
+"                               <li>Link event notification admin emails</li>\n"
+"                               <li>Automatic link health checker</li></ul>\n"
+"                               <p>Want to unlock all of the extra features you see here? The Pro add-on is for you. And we’re adding new features all the time!</p>"
+msgstr ""
+
+#: Models/Guided_Tour.php:256
+msgid "Check out the current Pro add-on features"
+msgstr ""
+
+#: Models/Guided_Tour.php:315
+msgid "Security Check Failed"
+msgstr ""
+
+#: Models/Link_Picker.php:216
+msgid "Select image:"
+msgstr ""
+
+#: Models/Link_Picker.php:225
+msgid "No images found"
+msgstr ""
+
+#: Models/Link_Picker.php:241
+msgid "Insert link"
+msgstr ""
+
+#: Models/Link_Picker.php:242
+msgid "Insert shortcode"
+msgstr ""
+
+#: Models/Link_Picker.php:243
+msgid "Insert image"
+msgstr ""
+
+#: Models/Link_Picker.php:264
+msgid "No affiliate links found"
+msgstr ""
+
+#: Models/Marketing.php:177 Models/Settings.php:1673
+msgid "Required parameter not passed"
+msgstr ""
+
+#: Models/Marketing.php:187
+msgid "Review request response saved"
+msgstr ""
+
+#: Models/Marketing.php:218
+#, php-format
+msgid ""
+"<p>We see you have been using IDatAffiliates for a couple of weeks now – thank you once again for your purchase and we hope you are enjoying it so far!</p>\n"
+"                                 <p>We'd really appreciate it if you could take a few minutes to write a 5-star review of our free plugin on WordPress.org!</p>\n"
+"                                 <p>Your comment will go a long way to helping us grow and giving new users the confidence to give us a try.</p>\n"
+"                                 <p>Thanks in advance, we are looking forward to reading it!</p>\n"
+"                                 <p>PS. If you ever need support, please just <a href=\"%1$s\" target=\"_blank\">get in touch here.</a></p>"
+msgstr ""
+
+#: Models/Marketing.php:226
+msgid ""
+"<p>Thanks for using our free IDatAffiliates plugin – we hope you are enjoying it so far.</p>\n"
+"                        <p>We’d really appreciate it if you could take a few minutes to write a 5-star review of our plugin on WordPress.org!</p>\n"
+"                        <p>Your comment will go a long way to helping us grow and giving new users the confidence to give us a try.</p>\n"
+"                        <p>Thanks in advance, we are looking forward to reading it!</p>"
+msgstr ""
+
+#: Models/Marketing.php:241
+msgid "Don't show again"
+msgstr ""
+
+#: Models/Marketing.php:242
+msgid "Review later"
+msgstr ""
+
+#: Models/Marketing.php:243
+msgid "Review"
+msgstr ""
+
+
+#: Models/Migration.php:284
+msgid "Invalid AJAX Call."
+msgstr ""
+
+#: Models/Migration.php:286
+msgid "Unauthorized operation. Only authorized accounts can do data migration."
+msgstr ""
+
+#: Models/Migration.php:290
+msgid "Data Migration Complete!"
+msgstr ""
+
+#: Models/Migration.php:753
+msgid "<b>IDatAffiliates is currently migrating your old affiliate link data to the new data model.<br>Please hold off making changes to your affiliate links. Please refresh the page and if this message has disappeared, the migration is complete.</b>"
+msgstr ""
+
+#: Models/Script_Loader.php:148
+msgid "Please provide a value for \"Custom Link Prefix\" option"
+msgstr ""
+
+#: Models/Script_Loader.php:159
+msgid "Please input settings string"
+msgstr ""
+
+#: Models/Script_Loader.php:160
+msgid "Settings string copied"
+msgstr ""
+
+#: Models/Script_Loader.php:161
+msgid "Failed to copy settings string"
+msgstr ""
+
+#: Models/Script_Loader.php:172
+msgid "Failed to do data migration"
+msgstr ""
+
+#: Models/Script_Loader.php:173
+msgid "Are you sure you want to migrate your IDatAffiliates data to version 3 format?"
+msgstr ""
+
+#: Models/Script_Loader.php:202
+msgid "Open the IDatAffiliates link picker"
+msgstr ""
+
+#: Models/Script_Loader.php:203
+msgid "Open quick add affiliate link dialog"
+msgstr ""
+
+#: Models/Script_Loader.php:204
+msgid "Type to search affiliate link"
+msgstr ""
+
+#: Models/Script_Loader.php:240
+msgid "Previous"
+msgstr ""
+
+#: Models/Script_Loader.php:241
+msgid "Next"
+msgstr ""
+
+#: Models/Script_Loader.php:242
+msgid "Close"
+msgstr ""
+
+#: Models/Script_Loader.php:243
+msgid "Start Tour"
+msgstr ""
+
+#: Models/Settings.php:226 views/reports/link-performance-report.php:37
+msgid "General"
+msgstr ""
+
+#: Models/Settings.php:227
+msgid "Settings that change the general behaviour of IDatAffiliates."
+msgstr ""
+
+#: Models/Settings.php:230
+msgid "Link Appearance"
+msgstr ""
+
+#: Models/Settings.php:231
+msgid "Settings that specifically affect the behaviour & appearance of your affiliate links."
+msgstr ""
+
+#: Models/Settings.php:234
+msgid "Modules"
+msgstr ""
+
+#: Models/Settings.php:235
+msgid "This section allows you to turn certain parts of IDatAffiliates on or off. Below are the individual modules and features of the plugin that can be controlled."
+msgstr ""
+
+#: Models/Settings.php:238
+msgid "Import/Export"
+msgstr ""
+
+#: Models/Settings.php:239
+msgid "Import and Export global IDatAffiliates plugin settings from one site to another."
+msgstr ""
+
+#: Models/Settings.php:242
+msgid "Help"
+msgstr ""
+
+#: Models/Settings.php:243
+msgid "Links to knowledge base and other utilities."
+msgstr ""
+
+#: Models/Settings.php:252
+msgid "Default Link Insertion Type"
+msgstr ""
+
+#: Models/Settings.php:253
+msgid "Determines the default link type when inserting a link using the quick search."
+msgstr ""
+
+#: Models/Settings.php:257
+msgid "Link"
+msgstr ""
+
+#: Models/Settings.php:258
+msgid "Shortcode"
+msgstr ""
+
+#: Models/Settings.php:264
+msgid "Disable \"uncategorized\" category on save?"
+msgstr ""
+
+#: Models/Settings.php:265
+msgid "If links are including categories in the URL then by default IDatAffiliates will add an \"uncategorized\" category to apply to non-categorised links during save. If you disable this, it allows you to have some links with categories in the URL and some without."
+msgstr ""
+
+#: Models/Settings.php:271
+msgid "Disable buttons on the Visual editor?"
+msgstr ""
+
+#: Models/Settings.php:272
+msgid "Hide the IDatAffiliates buttons on the Visual editor."
+msgstr ""
+
+#: Models/Settings.php:278
+msgid "Disable buttons on the Text/Quicktags editor?"
+msgstr ""
+
+#: Models/Settings.php:279
+msgid "Hide the IDatAffiliates buttons on the Text editor."
+msgstr ""
+
+#: Models/Settings.php:288
+msgid "Link Prefix"
+msgstr ""
+
+#: Models/Settings.php:289
+#, php-format
+msgid "The prefix that comes before your cloaked link's slug. <br>eg. %s/<strong>recommends</strong>/your-affiliate-link-name.<br><br><b>Warning :</b> Changing this setting after you've used links in a post could break those links. Be careful!"
+msgstr ""
+
+#: Models/Settings.php:317
+msgid "Custom Link Prefix"
+msgstr ""
+
+#: Models/Settings.php:318
+msgid "Enter your preferred link prefix."
+msgstr ""
+
+#: Models/Settings.php:324
+msgid "Link Category in URL?"
+msgstr ""
+
+#: Models/Settings.php:325
+#, php-format
+msgid "Shows the primary selected category in the url. eg. %s/recommends/<strong>link-category</strong>/your-affiliate-link-name.<br><br><b>Warning :</b> Changing this setting after you've used links in a post could break those links. Be careful!"
+msgstr ""
+
+#: Models/Settings.php:331
+msgid "Link Redirect Type"
+msgstr ""
+
+#: Models/Settings.php:332
+msgid "This is the type of redirect IDatAffiliates will use to redirect the user to your affiliate link."
+msgstr ""
+
+#: Models/Settings.php:339
+msgid "Use no follow on links?"
+msgstr ""
+
+#: Models/Settings.php:340
+msgid "Add the nofollow attribute to links so search engines don't index them."
+msgstr ""
+
+#: Models/Settings.php:347
+msgid "Open links in new window?"
+msgstr ""
+
+#: Models/Settings.php:348
+msgid "Make links open in a new browser tab by default."
+msgstr ""
+
+#: Models/Settings.php:355
+msgid "Pass query strings to destination url?"
+msgstr ""
+
+#: Models/Settings.php:356
+msgid "Enabling this option will pass all of the query strings present after the cloaked url to the destination url automatically when redirecting."
+msgstr ""
+
+#: Models/Settings.php:363
+msgid "Additional rel attribute tags"
+msgstr ""
+
+#: Models/Settings.php:364
+msgid "Allows you to add extra tags into the rel= attribute when links are inserted."
+msgstr ""
+
+#: Models/Settings.php:370
+msgid "Disable IDatAffiliates CSS classes?"
+msgstr ""
+
+#: Models/Settings.php:371
+msgid "To help with styling a CSS class called \"idatlink\" is added links on insertion.<br>Likewise the \"idatlinkimg\" class is added to images when using the image insertion type. This option disables the addition these CSS classes."
+msgstr ""
+
+#: Models/Settings.php:377
+msgid "Disable title attribute on link insertion?"
+msgstr ""
+
+#: Models/Settings.php:378
+msgid "Links are automatically output with a title html attribute (by default this shows the title of the affiliate link).<br>This option disables the output of the title attribute on your links."
+msgstr ""
+
+#: Models/Settings.php:384
+msgid "Select Category to Uncloak"
+msgstr ""
+
+#: Models/Settings.php:385
+msgid "The links assigned to the selected category will be uncloaked."
+msgstr ""
+
+#: Models/Settings.php:390
+msgid "Select category..."
+msgstr ""
+
+#: Models/Settings.php:399
+msgid "Statistics"
+msgstr ""
+
+#: Models/Settings.php:400
+msgid "When enabled, IDatAffiliates will collect click statistics information about visitors that click on your affiliate links. Also adds a new Reports section."
+msgstr ""
+
+#: Models/Settings.php:407
+msgid "Link Fixer"
+msgstr ""
+
+#: Models/Settings.php:408
+msgid "Link Fixer is a tiny piece of javascript code that runs on the frontend of your site to fix any outdated/broken affiliate links it detects. It's cache-friendly and runs after page load so it doesn't affect the rendering of content. Changed the settings on your site recently? Enabling Link Fixer means you don't need to update all your previously inserted affiliate links one by one – your visitors will never see an out of date affiliate link again."
+msgstr ""
+
+#: Models/Settings.php:415
+msgid "Uncloak Links"
+msgstr ""
+
+#: Models/Settings.php:416
+msgid "Uncloak Links is a feature to allow uncloaking of specific links on your site. It replaces the cloaked url with the actual destination url which is important for compatibility with some affiliate program with stricter terms (such as Amazon Associates). Once enabled, you will see a new Uncloak Link checkbox on the affiliate link edit screen. It also introduces a new setting under the Links tab for uncloaking whole categories.<br><br><b>Warning : </b>For this feature to work, the <strong>Link Fixer</strong> module needs to be turned on."
+msgstr ""
+
+#: Models/Settings.php:426
+msgid "Import Global Settings"
+msgstr ""
+
+#: Models/Settings.php:428
+msgid "Paste settings string here..."
+msgstr ""
+
+#: Models/Settings.php:433
+msgid "Export Global Settings"
+msgstr ""
+
+#: Models/Settings.php:442 Models/Settings.php:450
+msgid "Knowledge Base"
+msgstr ""
+
+#: Models/Settings.php:447
+msgid "Documentation"
+msgstr ""
+
+#: Models/Settings.php:451
+msgid "Guides, troubleshooting, FAQ and more."
+msgstr ""
+
+#: Models/Settings.php:456
+msgid "Our Blog"
+msgstr ""
+
+#: Models/Settings.php:459
+msgid "IDatAffiliates Blog"
+msgstr ""
+
+#: Models/Settings.php:460
+msgid "Learn & grow your affiliate marketing – covering increasing sales, generating traffic, optimising your affiliate marketing, interviews & case studies."
+msgstr ""
+
+#: Models/Settings.php:466
+msgid "Other Utilities"
+msgstr ""
+
+#: Models/Settings.php:471
+msgid "Migrate Old Data"
+msgstr ""
+
+#: Models/Settings.php:473
+msgid "Migrate old IDatAffiliates version 2 data to new version 3 data model."
+msgstr ""
+
+#: Models/Settings.php:598 Models/Settings.php:618
+msgid "IDatAffiliates Settings"
+msgstr ""
+
+#: Models/Settings.php:745
+msgid "Save Changes"
+msgstr ""
+
+#: Models/Settings.php:1223
+msgid "Key"
+msgstr ""
+
+#: Models/Settings.php:1224
+msgid "Value"
+msgstr ""
+
+#: Models/Settings.php:1347
+msgid "Another application is currently processing the database. Please wait for this to complete."
+msgstr ""
+
+#: Models/Settings.php:1357
+msgid "Migrate"
+msgstr ""
+
+#: Models/Settings.php:1360
+msgid "Migrating data. Please wait..."
+msgstr ""
+
+#: Models/Settings.php:1400
+msgid "Copy"
+msgstr ""
+
+#: Models/Settings.php:1437
+msgid "Import Settings"
+msgstr ""
+
+#: Models/Settings.php:1652
+msgid "Unauthorized operation. Only authorized accounts can access global plugin settings string"
+msgstr ""
+
+#: Models/Settings.php:1681
+msgid "Settings successfully imported"
+msgstr ""
+
+#: Models/Settings.php:1703
+msgid "Unauthorized operation. Only authorized accounts can import settings"
+msgstr ""
+
+#: Models/Settings.php:1708
+msgid "Invalid global settings string"
+msgstr ""
+
+#: Models/Shortcodes.php:247
+msgid "SHORTCODE ERROR: IDatAffiliates did not detect a valid link id, please check your short code!"
+msgstr ""
+
+#: Models/Stats_Reporting.php:305
+msgid "Selected affiliate link is invalid"
+msgstr ""
+
+#: Models/Stats_Reporting.php:381
+msgid "Link Performance"
+msgstr ""
+
+#: Models/Stats_Reporting.php:382
+msgid "Link Performance Report"
+msgstr ""
+
+#: Models/Stats_Reporting.php:383
+msgid "Total clicks on affiliate links over a given period."
+msgstr ""
+
+#: Models/Stats_Reporting.php:409
+msgid "IDatAffiliates Reports"
+msgstr ""
+
+#: Models/Stats_Reporting.php:410
+msgid "Reports"
+msgstr ""
+
+#: Models/Stats_Reporting.php:487
+msgid "Year"
+msgstr ""
+
+#: Models/Stats_Reporting.php:488
+msgid "Last Month"
+msgstr ""
+
+#: Models/Stats_Reporting.php:489
+msgid "This Month"
+msgstr ""
+
+#: Models/Stats_Reporting.php:490
+msgid "Last 7 Days"
+msgstr ""
+
+#: idataffiliates.php:222
+msgid "Activate this plugin"
+msgstr ""
+
+#: idataffiliates.php:222
+msgid "Click here to activate &rarr;"
+msgstr ""
+
+#: idataffiliates.php:224
+msgid "Install this plugin"
+msgstr ""
+
+#: idataffiliates.php:224
+msgid "Click here to install from WordPress.org repo &rarr;"
+msgstr ""
+
+#: idataffiliates.php:226
+#, php-format
+msgid "<br/>Please ensure you have the <a href=\"%1$s\" target=\"_blank\">%2$s</a> plugin installed and activated.<br/>"
+msgstr ""
+
+#: idataffiliates.php:233
+msgid "<b>IDatAffiliates</b> plugin missing dependency.<br/>"
+msgstr ""
+
+#: views/cpt/view-attach-images-metabox-single-image.php:4
+msgid "Remove This Image"
+msgstr ""
+
+#: views/cpt/view-attach-images-metabox.php:9
+msgid "Add Image To Affiliate Link"
+msgstr ""
+
+#: views/cpt/view-attach-images-metabox.php:10
+msgid "Add To Affiliate Link"
+msgstr ""
+
+#: views/cpt/view-attach-images-metabox.php:11
+#: views/cpt/view-attach-images-metabox.php:18
+msgid "Upload/Insert"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:7
+#: views/linkpicker/quick-add-affiliate-link.php:50
+msgid "No follow this link?"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:8
+msgid "Adds the rel=\"nofollow\" tag so search engines don't pass link juice."
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:11
+#: views/cpt/view-link-options-metabox.php:23
+#: views/cpt/view-link-options-metabox.php:35
+#: views/cpt/view-link-options-metabox.php:48
+#: views/linkpicker/quick-add-affiliate-link.php:53
+#: views/linkpicker/quick-add-affiliate-link.php:64
+#, php-format
+msgid "Global (%s)"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:12
+#: views/cpt/view-link-options-metabox.php:24
+#: views/cpt/view-link-options-metabox.php:36
+#: views/cpt/view-link-options-metabox.php:49
+#: views/linkpicker/quick-add-affiliate-link.php:54
+#: views/linkpicker/quick-add-affiliate-link.php:65
+msgid "Yes"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:13
+#: views/cpt/view-link-options-metabox.php:25
+#: views/cpt/view-link-options-metabox.php:37
+#: views/cpt/view-link-options-metabox.php:50
+#: views/linkpicker/quick-add-affiliate-link.php:55
+#: views/linkpicker/quick-add-affiliate-link.php:66
+msgid "No"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:19
+#: views/linkpicker/quick-add-affiliate-link.php:61
+msgid "Open this link in new window?"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:20
+msgid "Opens links in a new window when clicked on."
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:31
+msgid "Pass query string to destination url?"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:32
+msgid "Passes the query strings present after the cloaked url automatically to the destination url when redirecting."
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:44
+msgid "Uncloak link?"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:45
+msgid "Uncloaks the link when loaded on the frontend."
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:57
+msgid "Redirect type:"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:58
+msgid "Override the default redirection type for this link."
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:64
+#: views/linkpicker/quick-add-affiliate-link.php:42
+msgid "(default)"
+msgstr ""
+
+#: views/cpt/view-link-options-metabox.php:72
+msgid "Additional rel tags:"
+msgstr ""
+
+#: views/cpt/view-save-affiliate-link-metabox.php:3
+msgid "publish"
+msgstr ""
+
+#: views/cpt/view-save-affiliate-link-metabox.php:4
+#: views/cpt/view-urls-metabox.php:24
+msgid "Save"
+msgstr ""
+
+#: views/cpt/view-save-affiliate-link-metabox.php:5
+msgid "Save Link"
+msgstr ""
+
+#: views/cpt/view-save-affiliate-link-metabox.php:10
+msgid "Delete Permanently"
+msgstr ""
+
+#: views/cpt/view-save-affiliate-link-metabox.php:12
+msgid "Move to Trash"
+msgstr ""
+
+#: views/cpt/view-urls-metabox.php:7
+#: views/linkpicker/quick-add-affiliate-link.php:26
+msgid "Destination URL:"
+msgstr ""
+
+#: views/cpt/view-urls-metabox.php:15
+msgid "Cloaked URL:"
+msgstr ""
+
+#: views/cpt/view-urls-metabox.php:19
+msgid "Edit slug"
+msgstr ""
+
+#: views/cpt/view-urls-metabox.php:20
+msgid "Visit Link"
+msgstr ""
+
+#: views/cpt/view-urls-metabox.php:32
+msgid "Category to show in slug:"
+msgstr ""
+
+#: views/cpt/view-urls-metabox.php:36
+msgid "Default"
+msgstr ""
+
+#: views/linkpicker/advance-link-picker.php:17
+msgid "Search:"
+msgstr ""
+
+#: views/linkpicker/advance-link-picker.php:18
+msgid "Please enter 3 or more characters..."
+msgstr ""
+
+#: views/linkpicker/advance-link-picker.php:28
+msgid "Fetching..."
+msgstr ""
+
+#: views/linkpicker/advance-link-picker.php:29
+msgid "Load more"
+msgstr ""
+
+#: views/linkpicker/advance-link-picker.php:38
+msgid "Searching..."
+msgstr ""
+
+#: views/linkpicker/quick-add-affiliate-link.php:19
+msgid "Link Name:"
+msgstr ""
+
+#: views/linkpicker/quick-add-affiliate-link.php:29
+msgid "http:// or https:// is required"
+msgstr ""
+
+#: views/linkpicker/quick-add-affiliate-link.php:36
+msgid "Redirect Type:"
+msgstr ""
+
+#: views/linkpicker/quick-add-affiliate-link.php:75
+msgid "Add Link"
+msgstr ""
+
+#: views/linkpicker/quick-add-affiliate-link.php:78
+msgid "Add Link & Insert Into Post"
+msgstr ""
+
+#: views/reports/link-performance-report.php:15
+msgid "Custom"
+msgstr ""
+
+#: views/reports/link-performance-report.php:23
+msgid "Go"
+msgstr ""
+
+#: views/reports/link-performance-report.php:38
+#: views/reports/link-performance-report.php:75
+msgid "All links"
+msgstr ""
+
+#: views/reports/link-performance-report.php:43
+msgid "Fetch report for specific link:"
+msgstr ""
+
+#: views/reports/link-performance-report.php:45
+msgid "Search affiliate link"
+msgstr ""
+
+#: views/reports/link-performance-report.php:57
+msgid "Fetch Report"
+msgstr ""
+
+#: views/reports/link-performance-report.php:78
+msgid "Clicks: "
+msgstr ""

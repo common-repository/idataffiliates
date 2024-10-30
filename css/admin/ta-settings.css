@@ -1,0 +1,29 @@
+.ta-settings .form-table td,
+.ta-settings .form-table th {
+    vertical-align: top;
+    padding: 20px 10px 20px 0;
+}
+.ta-settings .form-table .submit-wrapper {
+    padding: 0;
+}
+.ta-settings .form-table .forminp-radio label {
+    margin-top: 0 !important;
+    line-height: 1em;
+}
+.ta-settings .form-table .forminp-radio ul {
+    margin: 5px 0 0;
+}
+.ta-settings .form-table .forminp-checkbox label {
+    margin-top: 5px !important;
+    line-height: 1em;
+}
+.ta-settings .form-table td .description {
+    margin-top: 0;
+}
+tr.ta_link_prefix_custom-row {
+    display: none;
+}
+.ta-settings .uncloak-links-select2 , .ta-settings .select2 {
+    width: 100%;
+}
+.ta_category_to_uncloak-row span.select2-selection__clear { display: none; }
